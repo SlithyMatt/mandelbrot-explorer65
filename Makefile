@@ -1,7 +1,7 @@
 
 RM = /usr/bin/rm
 JAVA = /usr/bin/java
-KICKASS65JAR = /home/ograf/.bin/KickAss/KickAss65CE02.jar
+KICKASS65JAR = ~/tools/kickass/kickassembler-5.19-65ce02.a.jar
 KS   = $(JAVA) -jar $(KICKASS65JAR)
 C1541 = /usr/bin/c1541
 
